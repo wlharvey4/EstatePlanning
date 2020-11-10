@@ -1,10 +1,10 @@
 # -*- mode:org; -*-
 
-#+title:LOLH
+#+title:Resources and Notes Relating to Estate Planning and Drafting
 #+subtitle:{{{version}}} {{{date}}}
-#+author:Resources and Notes Relating to Estate Planning and Drafting
-#+date:2020-11-10 12:42
-#+macro:version Version 0.0.1
+#+author:LOLH
+#+date:2020-11-10 14:30
+#+macro:version Version 0.0.2
 #+macro:upload-date (eval (current-time-string))
 #+bucket:wa-legal
 
@@ -23,9 +23,63 @@
 :custom_id: EPaD3
 :END:
 * Estate Planning and Drafting 3rd
-** Part I---Living and Dying
+** Part 0
 *** Chapter---Introduction
+**** A---Objectives
+**** B---Motivations
+**** C---Role of Estate ("Death") Taxation
+**** D---Role of Income Taxation
+**** E---Organization
+**** F---Schematic Illustrations
+**** G---Tax Sheltering the Tax-Free Amount---The Story of Hubby and Wifie and Chad and Dimples
+**** H---Bypass the Children? The Story of Biff and Bunny and Fred and Gertrude
+** Part I---Living and Dying
 *** Chapter---Counseling the Client
+**** A---Objectives
+**** B---What Do You Need to Know?
+**** C---What Are Your Responsibilities?
+**** D---Why Clients Elect to Make Wills
+**** E---The Counseling Function
+**** F---Client Interviews
+**** G---Gathering Information
+**** H---Fees for Estate Planning Services
+**** I---Conflic of Interest in Spousal Representation
+*** Chapter---Will Planning
+**** A---Objectives
+**** B---The Need for a Will
+**** C---Organizational Scheme for the Will
+**** D---Payment of Debts and Administration Expenses
+**** E---Tax Allocation Clauses
+**** F---Specific Bequests in General
+**** G---Tangible Personal Property and Personal Residencie
+**** H---Property Subject to Indebtedness
+**** I---Lapse and Close Order of Death
+**** J---Gifts to Lineal Descendents
+**** K---Per Stirpes and the Root Generaion Clause
+**** L---Selection of Executor
+**** M---Conflicts of Law
+**** N---Avoiding Ancillary Administration
+**** O---Anatomical Gifts
+*** Chapter---Powers of Attorney--Advance Directives--Living Trusts---Disability Planning
+**** A---Objectives
+**** B---Guardiandship of Incompetents
+**** C---Durable Powers of Attorney
+**** D---The Standby Revocable Trust and Limited-Powers for Disability
+**** E---The Backup Trust for Beneficiaries Under Legal Disability--Alternatives
+**** F---Nature of a Trust
+**** G---Elements of a Trust
+**** H---Pourover Wills
+**** I---The Illusory Trust Doctrine
+**** J---Claims of the Surviving Spouse
+*** Chapter---Drafting for Successive Enjoyment
+**** A---Objectives
+**** B---Common Dispositive Scheme
+**** C---Background
+**** D---Gifts to Heirs
+**** E---Express and Implied Conditions of Survivorship
+**** F---Class Gifts
+**** G---Death Without Issue
+**** H---The Rule Against Perpetuities
 ** Part II---Tax Considerations
 ** Part III---Transfers for the Benefitt of the Transferor
 ** Part IV---Spousal Gifts and Disclaimers
