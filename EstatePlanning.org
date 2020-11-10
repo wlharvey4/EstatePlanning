@@ -3,8 +3,8 @@
 #+title:LOLH
 #+subtitle:{{{version}}} {{{date}}}
 #+author:Resources and Notes Relating to Estate Planning and Drafting
-#+date:2020-11-10 12:30
-#+macro:version Version 0.0.0
+#+date:2020-11-10 12:42
+#+macro:version Version 0.0.1
 #+macro:upload-date (eval (current-time-string))
 #+bucket:wa-legal
 
@@ -17,8 +17,27 @@
 :PROPERTIES:
 :unnumbered: t
 :END:
-* Chapter
-
+* Resources
+** Estate Planning and Drafting (3rd Edition 2007) by Regis W. Campfield
+:PROPERTIES:
+:custom_id: EPaD3
+:END:
+* Estate Planning and Drafting 3rd
+** Part I---Living and Dying
+*** Chapter---Introduction
+*** Chapter---Counseling the Client
+** Part II---Tax Considerations
+** Part III---Transfers for the Benefitt of the Transferor
+** Part IV---Spousal Gifts and Disclaimers
+** Part V---The Bypass Trust and Related Gift Planning
+** Part VI---Special Situations
+** Part VII---Financial and Retirement Compensation Planning
+** Appendices
+:PROPERTIES:
+:appendix: t
+:END:
+*** Electronic Sources
+*** Projects
 * Build Tools
 :PROPERTIES:
 :appendix: t
