@@ -3,10 +3,10 @@
 #+title:Resources and Notes Relating to Estate Planning and Drafting
 #+subtitle:{{{version}}} {{{date}}}
 #+author:LOLH
-#+date:2020-11-10 14:30
-#+macro:version Version 0.0.2
+#+date:2020-11-11 09:42
+#+macro:version Version 0.0.3
 #+macro:upload-date (eval (current-time-string))
-#+bucket:wa-legal
+#+bucket:wa-legal.com
 
 {{{version}}} {{{date}}}
 
@@ -161,8 +161,8 @@
   AWS := aws
   S3  := $(AWS) s3
 
-  # The AWS region of choice; this can also be in .aws/config
-  REGION := --region us-west-2
+  # Need to set this variable according to the state of the bucket being used.
+  HTTP_S := http
 
   ### END OF USER-DEPENDENT VARIABLES
   ###############################################################################
@@ -200,7 +200,7 @@
 		      (re-search-forward "^\#[+]bucket:\\(.*\\)$$" nil t) \
 		      (match-string-no-properties 1)))')
   S3_BUCKET    := s3://$(BUCKET)
-  HTTPS_BUCKET := https://$(BUCKET)
+  HTTP_S_BUCKET := $(HTTP_S)://$(BUCKET)
 
   ### DIR, SRC
   # DIR is the .info name found at '#+texinfo_filename:<DIR>.info' (at
@@ -334,14 +334,14 @@
   ### AWS S3
   DST_OLD	:= $(S3_BUCKET)/$(S3PROJ)
   DST_NEW	:= $(S3_BUCKET)/$(DIR)-$(VERS)
-  EXCL_INCL	:= --exclude "*" --include "*.html"
-  INCL_IMAGES	:= --exclude "*" --include "*.jpg" --include "*.png"
+  EXCL_INCL	:= --exclude \* --include \*.html
+  INCL_IMAGES	:= --exclude \* --include \*.jpg --include \*.png
   GRANTS	:= --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
-  S3SYNC	:= $(S3) sync --delete $(EXCL_INCL) $(SRC) $(DST_OLD) $(REGION) $(GRANTS)
-  S3MOVE	:= $(S3) mv --recursive $(DST_OLD) $(DST_NEW) $(REGION) $(GRANTS)
-  S3COPY	:= $(S3) cp $(INDEX) $(S3_BUCKET) $(REGION) $(GRANTS)
+  S3SYNC	:= $(S3) sync --delete $(EXCL_INCL) $(SRC) $(DST_OLD) $(GRANTS)
+  S3MOVE	:= $(S3) mv --recursive $(DST_OLD) $(DST_NEW) $(GRANTS)
+  S3COPY	:= $(S3) cp $(INDEX) $(S3_BUCKET) $(GRANTS)
   S3REMOVE	:= $(S3) rm $(S3_BUCKET)/$(S3PROJ) --recursive
-  S3IMAGESYNC	:= $(S3) sync $(INCL_IMAGES) $(IMAGES) $(S3_BUCKET)/$(IMAGES) $(REGIONS) $(GRANTS)
+  S3IMAGESYNC	:= $(S3) sync $(INCL_IMAGES) $(IMAGES) $(S3_BUCKET)/$(IMAGES) $(GRANTS)
 
   ###############################################################################
 
@@ -368,7 +368,7 @@
 	    @echo BUCKET:	$(BUCKET)
 	    @echo PROJ:		$(PROJ) $S
 	    @echo S3_BUCKET:	$(S3_BUCKET)
-	    @echo HTTPS_BUCKET:	$(HTTPS_BUCKET)
+	    @echo HTTP_S_BUCKET:$(HTTP_S_BUCKET)
 	    @echo VERS:		$(VERS)
 	    @echo S3PROJ:	$(S3PROJ)
 	    @echo S3VERS:	$(S3VERS)
@@ -494,7 +494,7 @@
 		  -H "Authorization: token $(GITHUB_TOKEN)" \
 		  -H "Content-Type: application/json" \
 		  -X PATCH \
-		  -d "{\"homepage\":\"$(HTTPS_BUCKET)/$(DIR)-$(VERS)\",\
+		  -d "{\"homepage\":\"$(HTTP_S_BUCKET)/$(DIR)-$(VERS)\",\
 		       \"description\":\"$(description): $(VERS)\"}" \
 		  https://api.github.com/repos/$(USER)/$(PROJ)$S
 	    @echo Done updating homepage.
@@ -768,7 +768,7 @@ of   =custom_id=  and   value  ~cid-value~,   or   =nil=  if   not.   It   uses
 ** Bucket Index HTML
 The bucket should contain a master ~index.html~  file that links to each of the
 individual project  ~index.html~ files.  The  master ~index.html~ file  will be
-placed at the root of  the bucket, ~https://<bucket-name>.com/~, and the bucket
+placed at the root of  the bucket, ~http/s://<bucket-name>.com/~, and the bucket
 must be set up to serve this ~index.html~ when the user hits the root.
 
 *** Get Bucket Name
@@ -797,15 +797,17 @@ following code from ~bucket-name~, however, works. I don't know why.
 (prin1 bucket-name)
 #+end_src
 
-*** Bucket HTTPS URL
+*** Bucket HTTP/S URL
 This  code calls  ~get-bucket-name~ and  returns the  value returned  as a  URL
 string or nil.
 
-#+name: bucket-https-url
+#+name: bucket-http/s-url
 #+header: :results value
 #+header: :var b=get-bucket-name()
 #+begin_src emacs-lisp
-(concat "https://" b)
+;; Need to set this according to the needs of the current bucket
+(setq http/s "http")
+(concat http/s "://" b)
 #+end_src
 
 *** S3 Bucket URL
@@ -839,7 +841,7 @@ executed by a =#+call:= in [[*Bucket Index][*Bucket  Index]] during an HTML expo
 to a file called =index.html=.
 
 #+name: bucket-project-links
-#+header: :var b-url=bucket-https-url()
+#+header: :var b-url=bucket-http/s-url()
 #+header: :var projects=bucket-projects-list()
 #+header: :results output raw
 #+begin_src emacs-lisp
