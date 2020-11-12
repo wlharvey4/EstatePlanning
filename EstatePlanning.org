@@ -3,8 +3,8 @@
 #+title:Resources and Notes Relating to Estate Planning and Drafting
 #+subtitle:{{{version}}} {{{date}}}
 #+author:LOLH
-#+date:2020-11-12 10:25
-#+macro:version Version 0.0.4
+#+date:2020-11-12 10:55
+#+macro:version Version 0.0.5
 #+macro:upload-date (eval (current-time-string))
 #+bucket:wa-legal.com
 
@@ -35,9 +35,145 @@
 **** H---Bypass the Children? The Story of Biff and Bunny and Fred and Gertrude
 ** Part I---Living and Dying
 *** Chapter---Counseling the Client
-**** A---Objectives
-**** B---What Do You Need to Know?
-**** C---What Are Your Responsibilities?
+**** A [¶2001]---Objectives
+#+cindex:counselor at law
+#+cindex:counseling
+Lawyers as /counselors/ at law. The basic questions: /what is counseling?/
+
+This chapter presents a discussion of some  of the major issues involved in the
+role of the estate and trust lawyer as counselor.
+
+The reader is free to draw  own definition of counseling. The significant point
+is that counseling  is an integral, inescapable part of  the lawyer's role.  It
+is the most difficult, yet the most gratifying, of the lawyer's tasks.
+**** B---[¶2051] What Do You Need to Know?
+***** [¶2051] Introduction
+Counseling  in  an  estate  planning  context  is  the  process  by  which  the
+professional determines what it is that the  client wants to do with his or her
+property at deathtime.  Some clients will  want to make lifetime transfers, but
+most will want to keep control of their property until death.
+
+Re: counseling will-making clients...
+
+Is  the counseling  objective fundamentally  to  determine the  answer to  four
+questions:
+
+1. *Beneficiary*: To whom does the testator want to give his or her property?
+2. *Executor*: Who is to be executor of the testator's death?
+3. *Parental Guardian*: Who is to  be the "parental guardian" of the testator's
+   minor children in the event of premature death?
+4. *Tax Planning*: Does the testator need tax planning advice?
+
+***** [¶2059] Who is the Beneficiary?
+#+cindex:beneficiary
+For most, the  beneficiary is "my spouse  if my spouse survives me;  if not, my
+children."
+
+In cases where  the client expresses a different disposative  scheme, time must
+be given to "classification" of the client's property.  See ¶11,051.
+
+****** [¶2065] Problem
+Consider how best to go about  learning about the dispositive scheme the client
+has chosen.  Should  you open the interview by asking  detailed questions about
+the client's fammiily  and property? Or is the best  approach to open theformal
+conversation by asking simply, "To whomdo you want to give your property?"
+
+***** [¶2067] Who is to be "Executor" and Who is to be "Guardian"?
+#+cindex:executor
+#+cindex:guardian
+Oftentimes the principal motivation for making a will is "to appoint a guardian
+for our son and daughter in case anything happens to us."  See ¶3601 and ¶4051.
+
+****** [¶2073] Problem
+Consult ¶3051 and determine whether the  advantages of dying testate as opposed
+to intestate  are sufficiently significant  that the client should  be strongly
+urged to proceed  with the will-making while deferring a  decision on either or
+both the guardian or executor question.
+
+***** [¶2075] Is Tax Planning Necessary?
+
+****** Death Costs
+
+****** Valuation
+
+****** Classification
+
+****** [¶2100] Problem
+
+**** C---[¶2151] What Are Your Responsibilities?
+***** [¶2151] Estate Planning
+A certain minimum level of sophistication is required to counsel clients in the
+area of estate planning.
+****** Statement of Principles of the Estate Planning Attorney in Texas
+- From 41 Tex. B.J. 169, 169-72 (1978), by Robert Bandy
+******* What is Estate Planning?
+******* What are the Specific Skills?
+******* Who Does Estate Planning?
+******* What is the Responsibility of the Non-Specialist Practitioner?
+******* What Legal Tasks Should Be the Lawyer's Responsibility?
+******** Legal Tasks
+1. Data Gathering and Determination of Client Objectives
+   a. Family
+      - information concerning family, including the identities, ages, and
+        relationships of members of immediate family and those of collateral
+        relatives
+   b. Legal Relationships
+      - information concerning legal relationships or unusual family matters
+        which may affect the client's estate plan, including
+	- existence of prior marriages of the client or spouse,
+	- existence of property settlement agreements, court orders, other
+          agreements concerning prior marriages or client or spouse,
+	- existence of health problems or other matters affecting particular
+          family members
+   c. Estate Assets
+      - information to determine the
+	- identity
+	- location
+	- approximate value
+	of client's estate assets
+   d. Ownership
+      - information (including actual documents where appropriate) necessary to
+        determine the existing ownership and title arrangements with respect to
+        the  client's estate  assets, including  co-ownership and  survivorship
+        arrangments.
+   e. Characterization
+      - information necessary to determine the community or separate property
+        characterization and information relating to management and control of
+        the client's estate assets
+   f. Contracts
+      - information concerning any joint and mutual will, contracts to will, or
+        other legal impediments to dispose freely of the client's estate assets
+   g. Current Estate Plan
+      - determine existence and nature of the client's present estate planning
+        arrangments, including
+	- business succession agreements
+	- survivorship arrangements
+	- beneficiary or other designations with regard to insurance, employee
+          benefits, or other estate assets
+      - whether existing documents are satisfactory, or are capable of being
+        modified through trust amendment or codicil;
+      - whether they contain any libelous material or matter which would be in
+        poor taste as a public record;
+      - whether existing will  and codicils appear to be  properly executed and
+        self-proved;
+      - whether theclient has advised proposed fiduciaries of their
+        appointment and provided any needed guidelines for exercise of
+        fiduciary discretion;
+      - whether all original executed copies of existing estate planning
+        documents are readily available if needed;
+   h. Other's Current Estate Plans
+      - existence and nature of estate plans of other persons, living or
+        deceased, which affect the clients estate plan, including other wills,
+        trust agreements, powers of appointment, and beneficiary designations
+   i. Review Client's Current Estate Planning Documents
+   j. Dispositive Wishes
+      - determine client's desires and objectives regarding the disposition of
+        estate assets
+   k. Fiduciary Wishes
+
+***** [¶2159] Financial Planning
+***** [¶2169] Malpractice
+
 **** D---Why Clients Elect to Make Wills
 **** E---The Counseling Function
 **** F---Client Interviews
@@ -92,6 +228,971 @@
 :END:
 *** Electronic Sources
 *** Projects
+* Articles on Specific Subjects
+** Estate Planning
+*** Robb's Easy Overview
+:PROPERTIES:
+:cite:     http://www.robblaw.com/html/estate_planning.html
+:author:   John Robb
+:END:
+ESTATE PLANNING: ROBB'S EASY OVERVIEW...
+
+In its simple form, estate planning deals  with how to pass property to someone
+else when  you die. There  are several methods and  we will outline  them here.
+These  methods are  all separate  and independent  of each  other. This  is not
+intended to  be an exhaustive  outline and there  are always exceptions  to all
+rules.   We   would  be   happy  to  answer   questions  about   your  specific
+situation. Just drop us  an email or make an appointment to come  in for a more
+detailed explanation. As in everything we do,  your matters will be kept in the
+utmost confidence.
+
+METHOD NUMBER 1.
+
+JOINT TENANCY OWNERSHIP.
+
+You can  own property with  another person and title  it as joint  tenants with
+rights of survivorship and not as tenants in common.  This means that the title
+is held in two or more names and contain the magic words "joint tenants."  This
+form of  ownership instantly and  automatically transfers property at  death to
+the surviving owners.  It  is not the fact that there are two  or more names on
+the  property that  make this  work.  It works  due  to the  magic words  joint
+tenancy. If the magic  words are not present then this will  not work.  The law
+specifically presumes that you did not intend  to create a joint tenancy if the
+words are not present.
+
+The account  is titled John Doe  and Mary Doe  as joint tenants with  rights of
+survivorship and not as tenants in common.
+
+Advantages:
+
+l  With this form of ownership no lawyers are usually needed at death.
+
+l  Property does not have to go through the probate court at death.
+
+l  It is simple to understand and set up.
+
+l  It is an inexpensive planning tool.
+
+l  The property transfer is instant and automatic at death. 
+
+Disadvantages:
+
+l Joint tenancy does not apply to all property types.
+
+l It is an item by item plan.  The title to each asset must contain the names of the co-owners and the magic words must be present. Every time you change your mind you have to change the title to all of the assets involved.
+
+l Because it is so simple and easy, joint tenancy has the potential for misuse.
+
+l It should  NOT be used instead of a power of attorney to gain help in paying your bills.
+
+l It can require the consent of all owners to deal with your property. You may have to get your children's permission to cash an investment.
+
+l Joint tenancy property may be subject to the creditors of any owners.  This means that a garnishment intended for one of your children may tie up your property.
+
+l Joint tenancy property may become entangled with property division by a divorce court of any owner.  A lawyer can usually extract it from the court but it may cost time and money.
+
+l Joint tenancy can have disastrous Federal Estate Tax results in some situations.
+
+l  If all assets are titled in this fashion, there is no fund from which to pay your last expenses.  Each of the beneficiaries must contribute back to some common fund for the payment of bills and the funeral.
+
+l  Joint tenancy carries with it no protection for minors. The minor cannot legally deal with it and it may require that a conservator be appointed to deal on behalf of the minor.
+
+l Your intended recipients may get left out if a joint tenant dies before you do.  It will leave out your grandkids from that child and leave it all to the surviving joint tenants.
+
+It works rather well for passing property between husband and wife with estates that are not taxable.  There are probably better methods for other situations.
+
+METHOD NUMBER 2.
+
+BENEFICIARY DESIGNATIONS. 
+
+This  method only  applies to  certain types  of property.   Examples are  life
+insurance, IRA accounts, retirement plans, 401k plans, Keogh plans, POD (Pay On
+Death) and TOD (Transfer On Death) accounts, TOD (Transfer On Death) deeds, and
+TOD (Transfer On Death) car titles.  The  title to the property remains in your
+name and you designate a beneficiary to receive the property at your death.
+
+The account is titled John Doe, pay on death to Suzy Doe.
+
+Advantages:
+
+l Usually no lawyers are necessary to set up this method.
+
+l Asset transfers instantly and automatically at death.
+
+l No probate court proceeding is necessary at death.
+
+l  It is simple to understand and set up.
+
+l  It is an inexpensive planning tool.
+
+Disadvantages:
+
+l Beneficiary designations do not apply to all property types.
+
+l  It is an item by item plan.  The title to each asset must be placed in this form and a beneficiary named. Every time you change your mind you must change the beneficiary designations on all of the assets involved.
+
+l Can be a challenge to treat all children equally.
+
+l  Because it is so simple and easy, it has the potential for misuse.
+
+l  If all assets are titled in this fashion, there is no fund from which to pay last expenses.  Each of the beneficiaries must contribute back to some common fund for the payment of bills and the funeral.
+
+l  It can have disastrous Federal Estate Tax consequences in some estates.
+
+l  It carries with it no protection for minors. The minor cannot legally deal with it and it may require that a conservator be appointed to deal on behalf of the minor.
+
+l Your intended recipients may get left out if a beneficiary dies before you do.  It will leave out your grandkids from that child and leave it all to the surviving beneficiaries.
+
+l Special beneficiary designations can be very difficult to get set up. 
+
+METHOD NUMBER 3.
+
+WILLS.
+
+A will is a document that expresses where you would like your property to go at
+your  death. These  documents require  strict formalities  to be  valid.  If  a
+formality is  not followed, the  will can  be void. The  manner in which  it is
+signed must  adhere to  a very  strict procedure.   This is  not the  place for
+do-it-yourself  documents. The  plan  outlined  in your  will  does not  become
+operative until your death and your will  only works on property that stands in
+your name alone.  Wills  can be amended or revoked before death  as long as you
+are competent. Additionally, it can  name guardians and conservators for minors
+and/or can establish a trust to protect minors or disabled children.  A will is
+not effective unless probated at death.  This probate process does involve both
+the court and lawyers.
+
+Advantages:
+
+l An estate plan using a will can be fairly easily and inexpensively put together by your lawyer.
+
+l It is a comprehensive estate plan that can dispose of all of your assets in one document. If you change your mind you just have to change one document, your will.
+
+l Titles to assets do not have to be changed.
+
+l You can leave all of your property in your name alone without inviting interference from children.
+
+l A will can be changed as often as you wish without the hassle of retitling your assets at the bank.
+
+l Charitable gifts can be included and changed from time to time in a fairly easy fashion.
+
+l Very simple and understandable dispository language can be used: I leave all of my property to my children in equal shares.
+
+l You can name guardians and conservators and trustees to manage matters for your minor children after you are gone.
+
+l You can appoint who you wish to be the executor and manage your estate after your death.  This can be a responsible child or an unrelated professional.
+
+l Estate administration can be fairly simple.  Your chosen executor inventories the property, pays your final bills and then distributes the remainder to your beneficiaries.
+
+l An estate plan with a will is a relatively inexpensive plan at the time that you do the planning.
+
+Disadvantages:
+
+l At the time of death, a will must go through the probate process to be valid.  This involves using a lawyer and the court system and thus can be somewhat costly.
+
+l The minimum time for completing the probate process is six months.  While distributions can be made within this time, the estate cannot be finally settled until the proper statutory time has elapsed.
+
+l While your plan is very confidential during your lifetime, many matters concerning your estate are public at your death.  When your will is filed for probate it is available for the public to read.  The process requires that your executor file an inventory of your assets with the court and this is public information also.
+
+l While an estate plan with a will may be relatively less costly at the time that you do your planning, it is relatively more costly at the time of your death due to the probate process that is involved.
+
+METHOD NUMBER 4.
+
+REVOCABLE LIVING TRUSTS.
+
+A  revocable living  trust (also  known  as an  intervivos trust)  is a  signed
+agreement between you  and whoever will be  your trustee.  You can  be your own
+trustee  if you  wish. It  states  what happens  to your  property during  your
+lifetime (the trustee will hold it, invest it, pay your bills, give back to you
+if you want it back, etc.)  Then, at disability or death the trust designates a
+new trustee or trustees to take over,  and at death the trust instructs trustee
+to  pay your  final bills,  pay  taxes, and  distribute  what is  left to  your
+beneficiaries.
+
+An estate plan  using these trusts have  a two stage process.   First, you must
+get  documents correct  and signed.  Secondly, you  must transfer  all of  your
+assets to  the trust.  It  is very important to  get all assets  transferred as
+major benefits are lost if assets are missed.
+
+All plans involving revocable trusts should also have a pourover will.  This is
+a will that leaves everything to your  trust.  This will serves as a safety net
+in case  you forget to  place some  assets in your  trust, but it  is generally
+hoped that this will is not needed  at death because all assets will already be
+in the trust.
+
+Advantages:
+
+l The largest advantage to a revocable trust is that is avoids the probate process.  At death, your trustee simply follows the instructions set out in the trust document and settles your estate.  
+
+l At death or disability, there is no court involvement and oftentimes very little attorney involvement.
+
+l It is private.  Because there is no probate court process, your planning wishes and assets remain confidential.
+
+l It is a comprehensive estate planning tool that works on your entire estate.  It is not the asset by asset process involved with joint tenancy or beneficiary methods.
+
+l It is easy to amend or change as your intent changes. Best practice is to restate the trust rather than hook together a string of amendments and this is easily done with modern technology.
+
+l It is the most economical plan at death. 
+
+l This plan also provides for easy management succession during life if you become sick or disabled.  Your next named trustee simply steps up and begins to help.
+
+l Very simple and understandable dispository language can be used: I leave all of my property to my children in equal shares.
+
+l You can name guardians and conservators and trustees to manage matters for your minor children after you are gone.
+
+l You can appoint anyone you wish to be the trustee. You can appoint yourself to start with and then appoint successor trustees as you wish.  Many folks appoint their children as co-trustees or successor trustees. You may also appoint an unrelated professional who has experience in handling trust matters. This sometimes relieves the stress among children revolving around power issues and arguments over who is going to be in charge.
+
+Disadvantages:
+
+l The trust process is more complicated at the time you do your planning. More information must be provided to your planner to get the desired end product.
+
+l Assets must actually be transferred to the trust.  This is a very detailed oriented process that is absolutely necessary to achieve the goal of probate avoidance.  It can be a costly process depending on the assets owned. Most folks can do most of their own transfers to hold costs down.
+
+l The documents in the trust process tend to be more complicated than a simple will.  There are many contingencies that are covered and this makes for a more complicated document set.
+
+l The trust process normally costs more at the planning stage and less at death.  A will plan normally costs less in the planning process and more at death.
+
+METHOD NUMBER 5.
+
+OTHER METHODS.
+
+While these  are not seen  as often, other  estate planning tools  include life
+estate  transfers, intestate  succession  (the  state draws  a  will for  you),
+irrevocable trusts, and  disclaimers. These have limited  application today and
+are not in general use except for special circumstances.  As we plan estates we
+will  suggest these  methods if  they seem  to be  a reasonable  approach to  a
+specific estate planning problem or issue.
+
+METHODS ARE MUTUALLY EXCLUSIVE.
+
+Again, these  methods are all  separate and independent  of each other.   If an
+asset is held in joint tenancy a will  or trust will not effect that asset.  If
+a beneficiary method is used then a will does not pass that asset.  If an asset
+is in  a trust  then a  will does  not pass  it.  Each  method is  separate and
+independent of the other methods.
+
+The clearest example to illustrate this principle would be a person who draws a
+will and leaves everything  to my five children in equal  shares.  They then go
+to the bank and add the eldest son to  all of the accounts as a joint tenant so
+that they  can have  help paying their  bills if they  become ill  or disabled.
+This person will think that the estate  goes to all of the children as dictated
+by  the will.   Having read  this  overview you  now  know that  the elder  son
+receives those assets outright as the  surviving joint tenant.  This is not the
+desired result.  A little proper estate planning is needed.
+
+Documents in a normal estate plan include a durable business power of attorney,
+which allows someone  you appoint to do  business for you while  you are living
+(the power ends  at your death); a durable healthcare  power of attorney, which
+allows someone  you appoint  to make  healthcare decisions for  you if  you are
+incapacitated; a  Living Will or Natural  Death Declaration, in which  case, if
+two  doctors  agree your  condition  is  terminal,  they  are directed  not  to
+artificially prolong the dying process; a will or revocable trust document; and
+a pourover will (if a trust).
+
+Benefits to this  method are that this  does avoid probate court  if all assets
+held by trust, it is a comprehensive plan and easy to change, it is private (no
+asset inventory  filed in  a court),  it provides  succession of  management of
+affairs if become disabled during life, provides protection for minors, and has
+a relatively lower cost at death.
+
+Revocable trusts, however, have a more involved process to set up, they require
+more paperwork now and transferring of titles of property to the trust now, and
+they have a relatively higher cost now.
+
+ 
+
+TAXATION ISSUES
+
+Federal Estate  Tax - This may  be a federal tax  on your estate when  you die.
+Smaller estates are exempt.  These exemptions are changing over time.
+
+Current exemptions are:
+
+                     2019                         $11,400,000
+
+                     2020                         $11,580,000
+
+This exemption is now inflaiton adjusted and will rise each year.
+
+The current effective tax rate is 40%.
+
+If your estate  is over these exemptions  there are ways we can  help to reduce
+your estate taxes.   Particularly gifts and also  establishing separate estates
+for spouses are two  of the tools we can use to shelter  a meaningful amount of
+your estate  from tax.  You will  hear phrases such as  "marital bypass trusts"
+and "credit  shelter trusts" which sound  much more complicated than  they are.
+These are well worth exploring if your estate is in the ranges noted here.
+
+Kansas Estate Tax Exemption Equivalent:
+
+                      2009                         $1,000,000
+
+                      2010 and after           No Tax
+
+Federal Gift  Tax.  The  annual exclusion is  currently $15,000  per recipient,
+meaning that there is  no gift tax or return due for these  gifts, but gift tax
+returns must be filed  for all gifts over this amount.  A  husband and wife can
+give $30,000  to each recipient, but  there is often  not a tax reason  to make
+these gifts  until a  single estate  exceeds the  federal estate  tax exemption
+amount.
+
+Selected Income Tax issues.  Traditional IRAs and retirement plans are taxed as
+you  withdraw from  them.  If  you  die and  have  assets in  these plans  your
+beneficiaries pay the income tax as they withdraw the money from the plans.  If
+you are in the 0% or 15% income tax bracket and your children are in the 28% or
+31% bracket or higher  then it does not make much sense to  leave it to them to
+pay the taxes.  Better strategy is to at  least use up the 15% tax bracket each
+year by cashing some IRA assets.
+
+ 
+
+LONG TERM CARE ISSUES
+
+Long term care insurance.  The lifetime chances of residing in a nursing home:
+
+
+This means that there is a fairly good chance that either a husband or wife may
+need nursing  care at  some point  in their  lives.  There  is actually  a much
+higher chance of needing nursing care than  of your house burning down or being
+blown away  in a tornado  yet we all  purchase homeowners insurance.   There is
+also  a much  higher chance  of needing  nursing care  than of  having a  large
+liability from  an auto accident yet  we all purchase auto  insurance.Long term
+care insurance can be affordable at  younger ages and becomes very expensive at
+older ages. It is normally worth a visit  with an insurance agent to see what a
+policy might cost and if it fits your circumstances.
+
+Medicaid.  If a person needs nursing care and has exhausted all of their assets
+then the state will pay for their  nursing care.  However, their assets must be
+spent  down to  less than  $2000.  Some  items do  not count,  such as  prepaid
+funeral plans, household goods, and a home if you plan to return to it.
+
+Other things disqualify  you from Medicaid, such as too  many assets and gifts.
+The lookback  period is 60 months  and gifts within this  period disqualify you
+from receiving  Medicaid.  Gifts prior to  the lookback period are  not counted
+against the applicant.
+
+There is a  system for dividing assets  when one spouse needs  nursing care and
+the other spouse  does not.  They allow  you to divide the assets  and when the
+care-needing spouse has spent down their assets, Medicaid takes over.
+
+Whenever  Medicaid pays  for  a person's  care  a lien  arises  for the  amount
+expended against the property of the person and the person's spouse.  This lien
+is not enforceable until the death of the person or their spouse.
+
+The Medicaid  rules change  often and  care should be  taken to  seek competent
+advice prior to making any of discussed changes.
+
+SUMMARY
+
+This overview gives you an idea of the many ways to plan an estate and stresses
+the importance  of being very  careful in your  approach to estate  planning so
+that you are certain to get your intent implemented.
+
+We're happy to meet with you to review  these methods and design a plan for you
+that is  efficient and cost-effective in  meeting your intent and  needs.  Feel
+free to give us a call for an appointment.
+
+ 
+
+FREQUENTLY ASKED QUESTIONS
+
+Q. Is there a difference between a will and a living will?
+
+A. Yes. A will is a formally signed  document that indicates who is to get your
+   property at your death and who will  be in charge of paying your final bills
+   and things  like that.  It can also  appoint a new  guardian for  your minor
+   children if both you and your spouse die.  It has no effect whatsoever while
+   you are alive.  A living will is also called a Natural Death Declaration. It
+   is a formally signed document stating your intentions if you have a terminal
+   condition   or  illness   and  whether   or  not   you  want   extraordinary
+   life-sustaining measures employed.
+
+Q. I have drawn my own will and signed it. Is it valid?
+
+A. Maybe. To be valid, a will must  be signed in a certain way. It requires two
+   witnesses and  that certain formalities  be followed. If  the technicalities
+   are not followed,  then the will is not valid.  The technicalities vary from
+   state  to  state, and  they  can  change from  year  to  year as  the  state
+   legislatures change the laws.
+
+Q. The deed to  my house has my name and my husband's  name on it. If something
+   happens to one of us, will it automatically go to the survivor?
+
+A. Maybe.  If the deed  contains the magic words  "joint tenants with  right of
+   survivorship" then the  property would go to the survivor.  If the deed does
+   not contain the  magic words, then the property will  not automatically pass
+   to  the survivor.  The same  holds true  for titles  to other  property like
+   checking accounts, cd's, stocks, savings accounts etc.
+
+Q. What is Federal Estate Tax?
+
+A. The federal government  may tax your estate when you die.  They base the tax
+   on   all   assets   owned   by   you   at   your   death   (including   life
+   insurance). Currently, the first approximate $11,500,000 per decedent passes
+   to heirs  tax-free. There  are ways  for a couple  to pass  up to  twice the
+   exemption amount  or more tax-free  to their  children with a  little proper
+   planning.
+
+Q. What is a living will?
+
+A. A living will, also known as a "Natural Death Declaration, is a statement in
+   writing  directing  your physician,  in  the  event  you suffer  a  terminal
+   condition,  to withhold  or withdraw  life-sustaining procedures  that would
+   otherwise  artificially  prolong  the   dying  process.  There  are  certain
+   formalities which must be followed in making a living will and assuring that
+   others  comply  with your  decisions.  This  document  is  often part  of  a
+   comprehensive estate plan.
+
+Q. What is a durable power of attorney?
+
+A. A durable power of attorney is a written document that appoints someone else
+   to make financial and other important  decisions for the person granting the
+   authority. The authority granted can be  narrow and specific or more general
+   and comprehensive.  This document  is often part  of a  comprehensive estate
+   plan and  can be very  useful in helping  an elderly person  manage business
+   affairs.
+
+Q. What is joint tenancy?
+
+A. Joint  tenancy is  a form of  property ownership where  two or  more persons
+   share ownership  of personal  property or  real estate.  It has  the special
+   attribute of "survivorship" so that when one owner dies, his or her interest
+   passes automatically to the survivors.  Joint tenancy is sometimes used with
+   other tools  like wills  and trusts  to achieve  a person's  estate planning
+   goals. It is very appropriate in  some situations and not at all appropriate
+   in other situations.
+
+Q. My mother died 11 years ago, and  we just found her will while going through
+   papers. Do we need to do anything with it?
+
+A.  Except under  extremely limited  circumstances, a  will must  be filed  for
+   probate within 6 months of death or it is void. Your mother's property would
+   have passed by the  intestate succession laws of the State  of Kansas to her
+   heirs.
+
+Q. I have just moved to Kansas from  California. Do I need to change my will or
+   trust?
+
+A. It  depends. A will that  was valid where signed  should be valid in  all 50
+   states. The laws of each state differ, however, and you may begin to acquire
+   Kansas property that is not properly  treated in your California will. It is
+   always a good practice to have a  lawyer in your new state of residence look
+   at your  estate planning  documents so  you know they  still carry  out your
+   plan.
+
+Q. How do we determine how our children are raised if something happens to both
+   of us?
+
+A.  Kansas law  allows  you  to appoint  guardians  and  conservators for  your
+   children in the  event of your death in  a will or trust. At  your death the
+   court will appoint  whomever you chose unless they are  unfit. By exercising
+   this right you can  avoid family fights over who gets the  kids, and you can
+   know that your chosen person will raise your kids.
+
+Q. I want somebody to be able to help  me pay my bills. Shouldn't I just add my
+   son's name on all my accounts at the bank?
+
+A. Probably not. By adding his name to  your account as a joint tenant you have
+   given him an ownership interest in the account. His creditors may be able to
+   reach  the account  or it  may  become entangled  in his  divorce action  or
+   bankruptcy. At your death  the account would just belong to  your son to the
+   exclusion of your other children. A  durable power of attorney that appoints
+   your son is a much better way to get help paying bills.
+
+Q. My mother just died and left me some property. Do I owe income tax on this?
+
+A. Usually  no. Property you inherit  comes income tax-free unless  you are the
+   beneficiary of an  IRA account or a  pension plan of some  sort. These items
+   carry  with  them income  tax  consequences,  but  other items  come  income
+   tax-free. There may be  Kansas Estate Tax or Federal Estate  Tax due in some
+   cases. Proper planning can reduce or eliminate tax in many situations.
+
+Q. I am  a widow, and for  reasons that are best  known to me, I  would like to
+   leave all  of my  property to  my church rather  than to  my children  at my
+   death. Can my children challenge this?
+
+A. As long as  you are mentally competent, Kansas law allows  you to leave your
+   property to anybody you wish. Children have no right to inherit in Kansas if
+   you wish otherwise. The only people  who have rights to inherit are spouses;
+   in Kansas you  cannot disinherit a spouse without their  consent. This is an
+   area that requires close attention to details if you wish to avoid problems.
+
+Q. I don't want them hooking me up to all those machines when I'm at the end of
+   my life. Is there some way I can stop it?
+
+A.  A Natural  Death Declaration,  or  Living Will,  is a  legal document  that
+   expresses your wishes in this regard. When two doctors agree that you have a
+   terminal condition and  that procedures would only  artificially prolong the
+   dying process, then  this document directs that such  procedures be withheld
+   or withdrawn  and that you be  permitted to die naturally.  This document is
+   usually part of a well-coordinated estate plan.
+
+Q. What is a TOD deed?
+
+A. The Kansas legislature has authorized some  property to be held in a form of
+   ownership that automatically passes the property to your named beneficiaries
+   at  your  death. This  avoids  probate  but  not  taxes and  some  creditors
+   claims. This  has previously  been allowed for  bank accounts,  credit union
+   accounts, savings  and loan association accounts,  stock brokerage accounts,
+   federal savings bonds and securities. Real  estate has now been added to the
+   authorized  list. A  Transfer on  Death deed  is required  to be  signed and
+   recorded to affect this kind of ownership.
+
+Q. You have previously mentioned POD accounts and TOD deeds. How about cars and
+   trucks?
+
+A. The legislature has  authorized certain types of property to  be titled in a
+   special way to  pass automatically to your beneficiaries at  your death. The
+   list  includes bank  accounts,  credit union  accounts, savings  association
+   accounts,  securities, brokerage  accounts, savings  bonds, real  estate and
+   vehicle  titles.  This avoids  probate  but  not  taxes and  some  creditors
+   claims. You  must re-register your car  title in this form  of ownership and
+   send it in to have a new title issued.
+
+Q. I recently put my assets in a revocable trust and now want to change some of
+   the provisions. Is this possible?
+
+A. Usually  yes. One of  the attributes  of a revocable  trust is that  you can
+   amend  it or  revoke it  at any  time. It  is usually  a better  practice to
+   restate your trust with your changes rather than string along a whole series
+   of amendments. This keeps things as clear as possible as your intent changes
+   over the years and avoids hurt  feelings as beneficiaries don't have to read
+   that they were included and then reduced or excluded from your plan. It also
+   tends to lessen chances for litigation in the interpretation of the trust.
+
+Q. Does a person granted Power of Attorney by someone in failing health, have a
+   LEGAL responsibility  to manage the finances  in a manner that  protects the
+   interests of the sick person?
+
+A. When  someone is  granted authority  under a  power of  attorney to  act for
+   another,  they  probably   have  no  legal  obligation  to   act  with  that
+   authority.  However, once  they  begin to  act, they  stand  in a  fiduciary
+   capacity to the grantor of the power  and can be held liable for mis-uses of
+   the power. The attorney in fact cannot use the power for his personal profit
+   or  advantage. He  must exercise  it, if  he exercises  it at  all, for  the
+   benefit of the grantor.
+
+Q. I lost my  husband several years ago and wish to  remarry. Should I consider
+   some sort of agreement so my assets will go to my kids at my death?
+
+A. Yes. They are called Premarital Agreements  and they make good sense in your
+   situation. If you  do not have an  agreement like this, your  assets may all
+   wind up going to  his kids after you are gone. It  is entirely possible that
+   your kids would get nothing.
+
+Q. My  health is  failing and  I am considering  a nursing  home. Is  there any
+   reason I should not give all of my assets to my kids?
+
+A. Yes. Medicaid will pay for your nursing home care if you run out of your own
+   assets.  Medicaid rules  disqualify you  if you  have made  gifts within  60
+   months  of  applying. This  is  a  very complicated  area  of  the law  with
+   ever-changing rules. I would highly recommend  that you speak to a qualified
+   attorney prior to making the gifts.
+
+Q. Do I need a will or a trust?
+
+A. That depends  entirely upon your circumstances. State law  dictates how your
+   property will pass in  the event that you do not have a  will. If you have a
+   will or trust you can implement your more specific desires and you can do it
+   more  comprehensively. There  is  a  current trend  toward  trusts (even  on
+   smaller estates)  to avoid the  effort and  expense of probate,  to maintain
+   privacy, to provide more flexibility and  to manage finances in the event of
+   incapacity.
+
+Q. I'm getting older. Should I add my  children's name to the deed for my house
+   or farm?
+
+A.  There  are  several  issues  involved  and  potential  problems  with  this
+   arrangement,  including  possible  gift  and  estate  tax  implications  and
+   Medicaid eligibility issues.  You will need the signatures of  the child and
+   his or her spouse if you wish to sell or mortgage the property. Also, if the
+   child  becomes  involved  with  creditors, tax  problems,  litigation  or  a
+   divorce,  additional  problems  may  arise  which  cause  you  troubles  and
+   expense. In some circumstances it is possible to lose the property.
+
+Q. I am  thinking of making gifts to  my children, but I have heard  there is a
+   tax on gifts. When does the tax apply?
+
+A. A person can  give up to $15,000 per year per person  to an unlimited number
+   of recipients  without gift tax.  Gifts over $15,000 in  a year to  a single
+   donee are taxable gifts, for which a gift tax return must be filed.
+
+Q. My  aunt's health  is failing  and she needs  someone to  help her  with her
+   business. Can this be accomplished fairly easily?
+
+A. Usually,  Yes. Assuming  your aunt  is still competent,  a durable  power of
+   attorney may be executed, giving you  the authority to transact business for
+   her. If  she's not  competent, you  may have to  consider going  through the
+   courts to  establish a  conservatorship for her.  There are  also healthcare
+   powers of attorney that would enable  you to help her with making healthcare
+   decisions if she is unable. A trust may also be appropriate. These documents
+   can be done  individually or in connection with a  more comprehensive estate
+   plan. In any event, there are mechanisms that allow you to help her with her
+   needs.
+
+Q. My mother is failing noticeably, is it too late to do a will?
+
+A. Probably not.  As long as she  knows the general nature of  her property and
+   who she wants to receive it, she is likely still competent to execute estate
+   planning documents. The test is not whether  she is still able to do her own
+   business. It is important that  various formalities be followed in executing
+   these documents, and it is particularly important with your mother's current
+   health circumstances.
+
+Q. I have  read that you should not  keep your original will in  a safe deposit
+   box because nobody would have access to it if you die. Is this correct?
+
+A. No. Kansas law provides that when the holder of a safe deposit box dies, the
+   bank may open the box in the presence  of those who claim an interest in the
+   contents and remove any will for delivery to the court. The bank should also
+   allow  you  to remove  life  insurance  policies  and  deliver them  to  the
+   beneficiaries.  The remainder  of  the  contents can  be  removed after  the
+   executor of the estate is appointed.
+
+Q. I have a durable power of attorney. Do I also need a will?
+
+A. A durable  power of attorney allows  someone you appoint to  do business for
+   you while you are alive. Legally,  the authorization contained in a power of
+   attorney ceases at death. A will is one of the several ways to pass property
+   to your  beneficiaries at  your death. A  will has nothing  to do  with your
+   property  while you  are alive.  The  answer to  your question  is that  you
+   probably  need both  a power  of attorney  and a  will. These  documents are
+   normally part of  a coordinated estate plan that all  persons should have in
+   place.
+
+Q. Is there a  difference between a Durable Power of  Attorney and a Healthcare
+   Power of Attorney?
+
+A. Yes. A Durable Power of Attorney generally applies to business and financial
+   matters  only. Without  this  document a  court-ordered conservatorship  may
+   become  necessary  in the  event  of  incompetency.  A Healthcare  Power  of
+   Attorney, as the name implies,  refers to healthcare matters like consenting
+   to  medical   procedures,  making   living  arrangements  and   things  like
+   that.  Without  this  document,  a  court-ordered  guardianship  may  become
+   necessary  in the  event of  incompetency.  A coordinated  estate plan  will
+   normally include both of these powers  of attorney because they do different
+   things.
+*** No, You Don't Need a Simple Will
+:PROPERTIES:
+:cite:     http://www.bostonlegacylaw.com/no-you-dont-need-a-simple-will/
+:author:   William F. Coyne, Jr.
+:produced-by: Boston Legacy Planning
+:END:
+
+Over the  years, many people  have told  me, at an  early stage in  our initial
+meeting: “I need a  simple will,” or sometimes, “I just need  a simple will.” I
+have proceeded on the assumption, usually proven correct, that they had no idea
+what a simple will does or does  not do, and that their statement translates to
+“I’m not going  to pay a lot for  this muffler!” So I would  usually ignore the
+statement, and go on to my questions about their concerns.
+
+But I sometimes  wonder if our relationship  would have gotten off  to a better
+start if  I had been  more direct in my  response. The conversation  might have
+gone something like this.
+
+“I need a simple will.”
+
+“That’s really unlikely”
+
+“Huh?”
+
+“Well,  unless you  are playing  scavenger  hunt, and  your list  of things  to
+collect includes a simple will, you probably don’t need a simple will.  But let
+me ask you a few questions to make sure. How do you feel about probate?”
+
+“Not so  good. I  had an  aunt whose estate  went through  probate, and  it was
+pretty awful.”
+
+“If you were to become mentally incapacitated, would you want some control over
+who was in  charge of your affairs, how  the money was spent, and  how you were
+taken care of?
+
+“You bet.”
+
+“When  you leave  property  to your  kids,  would  you like  that  money to  be
+protected in case they get sued, or go through a divorce?
+
+“Absolutely.”
+
+“Well then, you don’t  need a simple will. What you need  is a revocable living
+trust.”
+
+Time out. Note that I have not yet  asked how much money is involved, or raised
+the  specter of  estate taxes.  People often  have the  mistaken idea  that the
+trust v. will question is a matter of  how much money they have. The reality is
+that the benefits of trusts are most important in smaller estates. For example,
+is it more important to protect  a child’s inheritance when the amount received
+is $200,000 or $200  Million?  If you think about it, it is  easy to see that a
+$300,000 judgment is  a drop in the bucket  in one case, and a  disaster in the
+other.  And why should only the super  wealthy have the ability to control what
+happens to them if dementia strikes?
+
+If I had determined that a married couple had total assets – including value of
+the house, and face  value of all insurance policies –  of more than $1Million,
+then the Massachusetts estate tax would be an issue, and there would be all the
+more reason for an  RLT. For business owners, or for  couples with total assets
+of over  $2 Million, the trust  is clearly the  better way to proceed.  Still I
+have found that  even some people with significant assets  think that they just
+need a simple will. It seems to be more a matter of lack of information than of
+net worth. But let’s continue with our conversation from where we took the time
+out.
+
+“Well then, you don’t  need a simple will. What you need  is a revocable living
+trust.”
+
+“How much will that cost?”
+
+“Probably  more than  you  want  to pay.  But  now at  least  we  are having  a
+conversation about the real  issue — not what you need, but  what the cost will
+be. So let’s have that conversation.”
+** Fiduciaries
+*** Lawyers as Trustees
+:PROPERTIES:
+:cite:     https://actecfoundation.org/podcasts/lawyers-as-trustee-risks-ethics/
+:author:   Steven A. Benenfield
+:date:     May 2019
+:produced-by: The American College of Trust and Estate Counsel, ACTEC
+:END:
+“Lawyers as  Trustees,” that’s the  subject of  today’s ACTEC Trust  and Estate
+Talk.   Transcript/Show  Notes   This  is  Susan  Snyder,   ACTEC  Fellow  from
+Chicago. As  trust and estate  planning lawyers,  we are often  confronted with
+client requests  that benefit  the client  by reducing the  cost of  current or
+future representation,  providing first-hand knowledge and  efficient execution
+of his or her intentions by a trusted disinterested advisor, and filling a role
+for  which a  client has  no  other appropriate  choice or  being the  client’s
+long-term  informal general  counsel  or family  lawyer.  Because the  client’s
+request could also benefit the attorney,  how can the attorney sort through the
+ethical and legal conflicts and obligations? To address these issues, you’ll be
+hearing   today  from   ACTEC   Fellow,  Steven   Benefield  from   Birmingham,
+Alabama.  Welcome, Stephen.
+
+Thank you, Susan,  it’s a pleasure to be  here today. I’d like to zero  in on a
+topic  of  particular interest  to  lawyers  who  draft  wills and  trusts  for
+clients. We  frequently have clients who  come to us  who say they have  no one
+else to  serve as their executor  or the trustee  of their trust, and  they ask
+their lawyer to fill that role. And  there are many reasons that a lawyer might
+or might  not do  that. For  instance, the  drafting lawyer  might be  the best
+person to serve as the trustee in the client’s will or trust because the lawyer
+knows  the terms  of the  will and  trust better,  probably, than  anyone else,
+including the client.   The lawyer’s legal and ethical  training, and knowledge
+and expertise can provide added value  to the client and particularly where you
+have long-standing relationships with a client, you may be familiar with family
+dynamics and  conflicts and who  can be trusted and  who can’t be  trusted much
+better than anyone, sometimes any other  family member even.
+
+Now, the issue  is where you get down  to where you normally have  an issue and
+that is money. And when the lawyer is  going to get paid for these services, it
+raises a  number of ethical  and legal questions  that can result  in potential
+liability for lawyers.  The issue of what a lawyer gets paid, how much they get
+paid, and  what they do  for what they get  paid, particularly as  the executor
+under will  or the trustee of  the trust, has been  the subject of a  number of
+written documents over a  number of years.
+
+The first, if you go back to 1973, the American Bar Association Section on Real
+Property, Probate and Trust issued  a statement of principles regarding probate
+practices and  expenses that dealt specifically  with the issue of  lawyers who
+served as the guardian  of a person or is the executor under  a will and took a
+fee not only as the executor or the guardian, but also a fee for serving as the
+lawyer for the executor or the guardian because those are actually two separate
+roles.  There was some  perception that there had been some  abuse in that area
+and  so the  ABA, the  American  Bar Association,  came out  with some  written
+guidance for  lawyers on  that. In  1992, the  same ABA  section came  out with
+Principles for Attorneys Acting in Other  Fiduciary Roles, and in 1994 that was
+also published  in a special  report of that section.
+
+Come along  to 2002 and  Rule 1.8 of the  Model Rules of  Professional Conduct,
+which  deal with  prohibited  transactions for  lawyers  and specifically  with
+transactions between lawyers and clients and  when there is an exception to the
+absolute bar  of those transactions, added  comment Number 8 to  Rule 1.8 which
+essentially says that Rule 1.8 doesn’t apply to the situation in which a client
+and the client’s lawyer, who is drafting a  will or trust, ask the lawyer to be
+the fiduciary  under that document.   So that’s not considered  a “transaction”
+between lawyer and the client.
+
+Now, understand that the Rules of Professional Conduct, which have been adopted
+in most states,  although not in any  state without some changes  and with many
+states a lot of  changes; California to the point you  might not recognize them
+and a  few other  states as  well, are only  for lawyer  disciplinary purposes.
+These are the rules  that the bar association and the  courts used to determine
+whether  lawyers keep  their  license to  practice law,  whether  they will  be
+suspended or  disbarred or reprimanded for  actions that they take  as lawyers.
+Many of the rules follow and come  from the fiduciary duties that apply between
+a principal and an  agent. Attorneys in one sense are  nothing more than agents
+for  their clients  as  principals and  as  agents we  are  fiduciaries to  our
+clients.  As  such, we  have fiduciary duties  to our clients  and in  order to
+fulfill those duties and to help lawyers  in part remember them, learn them and
+keep them sort of  at the forefront, many of the  Rules of Professional Conduct
+restate fiduciary  duties that lawyers  owe to  their clients.  In  some cases,
+they are  actually much more  specific than  the general fiduciary  duties that
+apply between a principal and agent.
+
+For instance, the Rule on Confidentiality that applies to a lawyer is extremely
+broad. It  applies to any  information about the client,  including information
+that is  gained from  a public  source.  As  lawyers, we  don’t talk  about our
+clients to anyone about anything unless it is to pursue the representation.  It
+doesn’t matter that there was an article  in the newspaper about our client. We
+don’t get to talk  about it. So, in that sense, the  duty of confidentiality is
+far broader than  that of your typical agent in  a principal agent relationship
+or the duty of a trustee in your  typical express trust, which is the basis for
+defining fiduciary duties  as we generally understand them, and  if you look to
+the  Restatement of  the Law  of Trusts  and read  it in  conjunction with  the
+Restatement of the Law Governing Lawyers, you will find there’s a great deal of
+overlap and cross-reference  between the two.
+
+So, what do  we do about finding  ways to do this? States  have taken different
+approaches  in whether  lawyers  can agree  to  serve as  a  fiduciary under  a
+document that’s  drafted by the  lawyer. Some states in  the past have  taken a
+very  dim view  of that.  Other states  such as  California and  New York  have
+statutes that  expressly permit  lawyers to serve  as fiduciaries  in documents
+they draft.  In some states, such as Georgia, courts have adopted express rules
+and procedures that  need to be followed.   And then, under the  Model Rules as
+adopted in most states, we have the  rules on Conflicts of Interest in Rule 1.7
+and Rule 1.8,  coupled with the rules governing communications  with the client
+and the concept of informed consent by  the client to the representation and to
+the additional role that’s being taken  on as the fiduciary under the document.
+And of course,  the concept of informed consent requires  that a lawyer explain
+in  some  detail  the  potential  risk  and the  advantages,  as  well  as  the
+alternatives to the proposed course of action.   So that if the client is going
+to ask you to be the trustee  or executor, then it’s the lawyer’s obligation to
+explain that  there are  other ways  that can be  accomplished; that  there are
+institutions who  will serve as  fiduciary; that  there are family  members who
+might  serve as  fiduciaries.  In  some states  and  other  pockets, there  are
+individuals  who serve  as professional  fiduciaries who  are not  lawyers. And
+that’s perfectly okay, if  they’re willing to take that on.
+
+So, what are some of the things you need to worry about if you are a lawyer who
+is going to accept the appointment as the executor or trustee?  To the extent
+that some states still have what we used to refer to as the Model Code of
+Professional Responsibility, there was an ethical consideration that dealt with
+this issue directly, which simply said that a lawyer should not consciously
+influence a client to name him or her as the executor or trustee under a
+document that that lawyer drafts.  Now, that rule was criticized as being
+fairly vague, but I think that criticism might actually have been a bit
+overblown because one could argue that many of the general fiduciary duties
+that any fiduciary owes, whether it’s the agent to a principal or the trustee
+of the express trust, or a lawyer to a client, are going to be vague.
+
+For instance, in Rule 1.7 of the  Rules of the “Rules of Professional Conduct,”
+which are used as the minimum  standard for lawyer discipline, 1.7(b) says, you
+shall not  take representation  or maintain representation  to the  extent that
+there is  a significant risk that  your representation of someone  else or your
+personal interest might  materially limit your representation.   Well, just how
+vague is a  significant risk and a material limitation  on your representation?
+Well, it’s kind of  like, equity is as long as the  Chancellor’s big toe.  What
+is significant to you might not be too significant to me and what is a material
+limitation  might  seem  insignificant  to   me.   So,  there  you  go.   Don’t
+necessarily throw things out as vague simply because they are broad.
+
+Comment 8 to Rule  1.8 that I mentioned earlier says that, if  you are going to
+be the executor or trustee for your  client, then you don’t have to worry about
+jumping  through  all of  the  hoops  that come  with  engaging  in a  business
+transaction  with your  lawyer, and  those  hoops include  encouraging, if  not
+demanding, that your  client gets separate legal representation,  and taking an
+objective  view to  the  representation  from the  client’s  perspective as  to
+whether it is  reasonable and fair. Well, once again,  what’s reasonable is the
+subject of a  great deal of litigation,  and as we all know,  fair is something
+that occurs in the fall.
+
+So, if you can figure that out just  from the typeface of the rule, you will be
+in better shape than I am.  In any event, the American Bar Association in 2002,
+shortly before Comment  8 came out for Rule 1.8,  issued Formal Opinion 02–246,
+just three months before the Comment 8  out, and it concluded that not only was
+it okay for a lawyer to be named  as the fiduciary under the will or trust that
+the lawyer is  drafting, but the representations and the  disclosures that were
+required  were a  good deal  less expansive  than what  some commentators  have
+suggested are required.
+
+For  one thing,  the concept  of informed  consent that  I mentioned,  is about
+disclosing information to your client and Formal Opinion 02-246 speaks in terms
+of  what is  disclosed to  the client.   Well, Professor  Rounds in  Loring and
+Rounds: A  Trustee’s Handbook suggests that  that doesn’t go quite  far enough,
+because from a malpractice or  professional liability standpoint or a fiduciary
+duty standpoint,  which is what governs  our relationship with our  client, not
+the Rules of Professional Conduct. The Rules of Professional Conduct govern our
+relationship with  the bar association and  the court. The law,  the civil law,
+governs  our relationship  between our  clients and  ourselves and  that’s what
+determines  whether we  end  up  owing our  clients  money  because we’ve  done
+something to damage their interest and we  get sued and it goes to court. Well,
+we can talk about that in many  ways, but the simple fact is, the understanding
+that the client has to have is the  key.  It’s not what we tell them, it’s what
+they understand.
+
+And so if you are going to be the trustee or the executor under a will or trust
+that you  draft for  a client,  it’s critical  that you  make sure  that client
+understands and you have done everything in your power to make sure that client
+understands and that you can prove it. Now, there are other problems with being
+a  trustee  for  a client,  not  the  least  of  which  is that  the  Rules  of
+Professional Conduct apply  a standard of care that probably  sets the standard
+of care for civil liability and holds lawyers to be professional trustees.  And
+if you want  to look at some  of the obligations of  the professional trustees,
+then go to  the website for the  Office of the Comptroller of  the Currency and
+see what the obligations of banks and other lending institutions are, that have
+trust departments, with respect to  serving as trustees.  They are professional
+trustees. And you  might say, “well, I’m  just a single individual. I  am not a
+bank.  I don’t have to be powered by that standard.” Well, let me know how that
+works out for you. Because as far as  I know, the fiduciary duty doesn’t make a
+distinction between  degree.  You are  either a professional trustee  or you’re
+not. So  there’s the caution  for the day:  if you want to  be a trustee  or an
+executor  under a  document that  you are  drafting for  a client,  beware.  Be
+careful what  you ask  for, because you  may get more  than you  bargained for.
+
+
+Great.  Thanks, Steven.  Thanks for  helping us through this ethical minefield.
+
+Thank you.
+
+* Areas of Practice
+- Estate Planning,
+  - Base planning
+    - Revocable Living Trusts,
+    - Wills,
+    - Powers of Attorney,
+    - Health Care Documents
+  - Advanced Planning
+    - Plan design,
+    - implementation and management services to achieve lifetime financial goals,
+    - avoid income and estate taxes, and
+    - optimize integrated planning strategies.
+
+- Legacy Planning
+
+  There are many ways  to think of legacy planning.  One  aspect is that legacy
+  planning “estate planning  for people who have a story  to tell.” It involves
+  capturing and passing on family stories, wisdom earned from life experiences,
+  values, hopes and  treasured personal possessions.  That  deeper knowledge of
+  life’s goals can impact the entire estate plan in profound ways.
+
+- Business Transition Planning
+  - Business exit planning
+  - Business succession planning
+  - Planning for multi-owner businesses
+
+- Asset Protection Planning
+  - Comprehensive Asset Protection Audit™
+  - Creation of
+    - trusts,
+    - LLCs,
+    - series LLCs,
+    - domestic asset protection trusts
+    - Ongoing maintenance of asset protection entities
+
+- Dispute Avoidance and Resolution
+  - Alternative Dispute Resolution systems design for corporations, LLCs and trusts
+  - Mediation and facilitation services
+  - Collaborative law and settlement counsel
+  - Litigation of trust and estate disputes
+  - Appeals in trust and related areas
+
+- the Avoidance and Resolution of Disputes Involving
+  - trusts,
+  - estates,
+  - business owners and
+  - fiduciaries.
+
+- Trust and Estate Settlement
+  - Probate and trust settlements
+  - Postmortem planning
+  - Beneficiary trust design and maintenance
+
 * Build Tools
 :PROPERTIES:
 :appendix: t
