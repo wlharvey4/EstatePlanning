@@ -3,8 +3,8 @@
 #+title:Resources and Notes Relating to Estate Planning and Drafting
 #+subtitle:{{{version}}} {{{date}}}
 #+author:LOLH
-#+date:2020-11-12 10:55
-#+macro:version Version 0.0.5
+#+date:2020-11-12 12:14
+#+macro:version Version 0.0.6
 #+macro:upload-date (eval (current-time-string))
 #+bucket:wa-legal.com
 
@@ -22,20 +22,24 @@
 :PROPERTIES:
 :custom_id: EPaD3
 :END:
+** Drafting Legal Documents---Principles and Practices (2nd Edition 1992) by Barbara Child
+:PROPERTIES:
+:custom_id: DLDPaP
+:END:
 * Estate Planning and Drafting 3rd
-** Part 0
+** Part 0 --- Preliminary
 *** Chapter---Introduction
-**** A---Objectives
-**** B---Motivations
-**** C---Role of Estate ("Death") Taxation
-**** D---Role of Income Taxation
-**** E---Organization
-**** F---Schematic Illustrations
-**** G---Tax Sheltering the Tax-Free Amount---The Story of Hubby and Wifie and Chad and Dimples
-**** H---Bypass the Children? The Story of Biff and Bunny and Fred and Gertrude
-** Part I---Living and Dying
+**** A [¶1001] ---Objectives
+**** B [¶1051] ---Motivations
+**** C [¶1061] ---Role of Estate ("Death") Taxation
+**** D [¶1081] ---Role of Income Taxation
+**** E [¶1101] ---Organization
+**** F [¶1201] ---Schematic Illustrations
+**** G [¶1301] ---Tax Sheltering the Tax-Free Amount---The Story of Hubby and Wifie and Chad and Dimples
+**** H [¶1401] ---Bypass the Children? The Story of Biff and Bunny and Fred and Gertrude
+** Part I   --- Living and Dying
 *** Chapter---Counseling the Client
-**** A [¶2001]---Objectives
+**** A [¶2001] --- Objectives
 #+cindex:counselor at law
 #+cindex:counseling
 Lawyers as /counselors/ at law. The basic questions: /what is counseling?/
@@ -46,7 +50,7 @@ role of the estate and trust lawyer as counselor.
 The reader is free to draw  own definition of counseling. The significant point
 is that counseling  is an integral, inescapable part of  the lawyer's role.  It
 is the most difficult, yet the most gratifying, of the lawyer's tasks.
-**** B---[¶2051] What Do You Need to Know?
+**** B [¶2051] --- What Do You Need to Know?
 ***** [¶2051] Introduction
 Counseling  in  an  estate  planning  context  is  the  process  by  which  the
 professional determines what it is that the  client wants to do with his or her
@@ -100,14 +104,47 @@ both the guardian or executor question.
 
 ****** [¶2100] Problem
 
-**** C---[¶2151] What Are Your Responsibilities?
+**** C [¶2151] --- What Are Your Responsibilities?
 ***** [¶2151] Estate Planning
 A certain minimum level of sophistication is required to counsel clients in the
 area of estate planning.
 ****** Statement of Principles of the Estate Planning Attorney in Texas
 - From 41 Tex. B.J. 169, 169-72 (1978), by Robert Bandy
 ******* What is Estate Planning?
+#+cindex:Estate Planning
+"Estate Planning"  is the process by  which the client plans  the accumulation,
+management, conservation,  and disposition of his  or her estate so  that he or
+she and beneficiaries  will derive the maximum benefit  during their lifetimes.
+This process  requires coordination and  integration of the  client's personal,
+financial and business affairs.
 ******* What are the Specific Skills?
+#+cindex:skills
+In order for an individual to hold himself out tothe public as an estate
+planner:
+- he  must be  thoroughly  skilled  in the  law  pertaining  to wills,  trusts,
+  property rights and estates;
+- he must be capable of concise and unambiguous draftsmanship;
+- he must understand the broad trends and the applicable rules of income,
+  estate, inheritance and gift taxation;
+- he should be acquainted with the practices and customs of the professional
+  fiduciaries in his area;
+- he should be schooled in the law of business entities and be prepared to
+  continue, dispose of, or dismember a business;
+- he should be familiar with the essentials pertaining to pension and profit
+  sharing plans and deferred compensation arrangements;
+- he must have knowledge and experience and be familiar with the basic
+  essentials of investments, insurance and accounting, and the sources of
+  specialized advice in these areas;
+- he should have a good understanding of the basic principles of business
+  operations and financing;
+- he should be a counselor with a good understanding of psychology;
+- and finally, he should be willing to cooperate with other members of the
+  estate planning team in the creation and implementation of the estate plan.
+
+
+The foregoing  comprehensive capabilities  demonstrate how  difficult it  is to
+become a proficient  estate planner.  Mastery of these essential  skills by one
+person is an enormous undertaking.
 ******* Who Does Estate Planning?
 ******* What is the Responsibility of the Non-Specialist Practitioner?
 ******* What Legal Tasks Should Be the Lawyer's Responsibility?
@@ -174,12 +211,28 @@ area of estate planning.
 ***** [¶2159] Financial Planning
 ***** [¶2169] Malpractice
 
-**** D---Why Clients Elect to Make Wills
-**** E---The Counseling Function
-**** F---Client Interviews
-**** G---Gathering Information
-**** H---Fees for Estate Planning Services
-**** I---Conflic of Interest in Spousal Representation
+**** D [¶2201] --- Why Clients Elect to Make Wills
+**** E [¶2251] --- The Counseling Function
+**** F [¶2301] --- Client Interviews
+**** G [¶2351] --- Gathering Information
+The obvious question is "how do you gather the required information?"
+
+This is the counseling function.
+
+Do you do this in the context of  a formal conference with the client or do you
+send out a questionnaire which raises these questions and directs the client to
+contact your office once he or she has completed the questionnaire?
+
+Alternatively,  do you  arrange a  formal meeting  with the  client and,  after
+greetings are  exchanged, hand the client  over to a paralegal  who will gather
+the required information  and prepare a memorandum for  your review summarizing
+the information relevant to the preparation of the dispositive instruments?
+**** H [¶2401] --- Fees for Estate Planning Services
+**** I [¶2451] --- Conflict of Interest in Spousal Representation
+**** [¶2461] --- Problems
+1. ...
+2. ...
+3. ...
 *** Chapter---Will Planning
 **** A---Objectives
 **** B---The Need for a Will
@@ -216,18 +269,19 @@ area of estate planning.
 **** F---Class Gifts
 **** G---Death Without Issue
 **** H---The Rule Against Perpetuities
-** Part II---Tax Considerations
-** Part III---Transfers for the Benefitt of the Transferor
-** Part IV---Spousal Gifts and Disclaimers
-** Part V---The Bypass Trust and Related Gift Planning
-** Part VI---Special Situations
-** Part VII---Financial and Retirement Compensation Planning
+** Part II  --- Tax Considerations
+** Part III --- Transfers for the Benefit of the Transferor
+** Part IV  --- Spousal Gifts and Disclaimers
+** Part V   --- The Bypass Trust and Related Gift Planning
+** Part VI  --- Special Situations
+** Part VII --- Financial and Retirement Compensation Planning
 ** Appendices
 :PROPERTIES:
 :appendix: t
 :END:
 *** Electronic Sources
 *** Projects
+* Drafting Legal Documents 2nd
 * Articles on Specific Subjects
 ** Estate Planning
 *** Robb's Easy Overview
