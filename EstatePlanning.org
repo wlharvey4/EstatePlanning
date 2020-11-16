@@ -3,7 +3,7 @@
 #+title:Resources and Notes Relating to Estate Planning and Drafting
 #+subtitle:{{{version}}} {{{date}}}
 #+author:LOLH
-#+date:2020-11-12 12:14
+#+date:2020-11-12 16:43
 #+macro:version Version 0.0.6
 #+macro:upload-date (eval (current-time-string))
 #+bucket:wa-legal.com
@@ -282,6 +282,284 @@ the information relevant to the preparation of the dispositive instruments?
 *** Electronic Sources
 *** Projects
 * Drafting Legal Documents 2nd
+* Information Forms
+** Your Estate Planning Portfolio
+#+title:Estate Planning Questionnaire
+#+subtitle:Helping You Plan for and Document Your Estate Throughout the Years
+#+author: Law Office of Lincoln Harvey
+#+date: \today
+
+Hello.  I offer a different perspective  on the estate planning process than is
+normally encountered.  The following process has two primary goals:
+
+1. Guide you  while you are alive in  easily setting up and keeping  up to date
+   your estate plan; and
+2.  Assist  your loved  ones after  you pass in  handling your  estate quickly,
+   efficiently, and cost-effectively.
+
+
+As you prepare your state of affairs,  keep those two perspectives in mind, and
+the following process will become something  you look forward to doing, and not
+a chore or something you put off year  after year until too late.
+
+\section*{The Rationale}
+
+\emph{Planning  your estate  should  be  personal to  you.}   It  should be  an
+on-going process that you always have up-to-date and under control, and that is
+easy to work with and not a chore that gets put off.  Looked at another way, it
+is something that  \emph{only} you can do,  and it needs to  be done regularly.
+This process should  \emph{never} interfere with nor prevent you  from having a
+complete estate  plan in place  that you are happy  with, nor from  quickly and
+easily updating it to take account of changing circumstances, both your own and
+the  legal  and  financial  landscapes.    Put  something  in  place,  give  it
+consideration,  ask  questions of  your  advisors,  and make  adjustments  when
+necessary.   Remember  that most  documents  can  have codicils  or  amendments
+drafted quickly and affordably instead of having to redo everything.
+
+\section*{The Process}
+
+Below are  some categories and questions.   What you should do  is prepare your
+own  document  on  your own  word  processing  program,  and  place in  it  the
+information that is pertinent to you in your own words.  Many of the categories
+will have  source documents  that provide  the necessary  detail, such  as 401K
+quarterly statements,  your bank  account year-end  statements, home  title and
+loan  documents, and  car titles,  etc..  Obtain  the latest  source documents,
+print out  your information, place it  into a 3-ring binder  with dividers, and
+place the  source documents  inside.  Each  year, as  a New  Year's resolution,
+update the  document and its  source documents and  give your estate  plan some
+thought.
+
+As time goes  on, just add updated documents, update  your master document, and
+your estate plan  will always stay in focus.  Never  throw any source documents
+away, and you will  have a living history of your  estate throughout the years.
+There is no need  to keep every source document that comes in  the mail, but at
+least keep yearly accounts  up-to-date.  You will be able to  tell the state of
+your affairs at any time with just a  quick glance, and you can show it to your
+advisors and they  will be instantly aware  of what they need to  know, or will
+let you know if you are missing something.
+
+Each category below should start on a new  page, so when it comes time to print
+an updated  version, you  just need to  print what has  changed, not  the whole
+thing.   Place copies  of estate  documents, such  as your  will and  powers of
+attorney, in  the binder, and place  the originals in  a safe deposit box  in a
+bank or  fireproof safe at  home.  Also place in  the safe deposit  box account
+names  and  passwords  to  online  accounts  of  your  financial  matters  with
+references to them in the binder.  Anything and everything that is important to
+\emph{you}  should go  into this  binder or  into a  safe deposit  box, with  a
+reference from the binder.
+
+\section*{In Summary}
+
+The categories  are suggestions.  Nothing written  below is set in  stone; feel
+free to change, add to, and subtract  from what is there.  What is important is
+that this information reflect you at  the present moment, and provide a history
+of where you have been over the years to help guide you and your advisers going
+forward.
+
+\bfseries  Remember that  another goal  is that  after you  pass away  and your
+family begins  the proces of  handling your  estate, they will  have everything
+they need in your estate binder to quickly, efficiently and cost-effectively do
+the job nobody wants  to do. \normalfont There is a peace  of mind from knowing
+you have done everything you could to make that process easy for them when they
+have to do it.
+
+\newpage
+
+*** Personal Information
+**** You
+1. Full Legal Name
+2. Citizenship
+3. Mailing Address
+4. Residence Address
+5. Work Address
+6. Phone Numbers
+   1. Mobile
+   2. Work
+   3. Home
+7. Email Addresses
+   1. Home
+   2. Work
+   3. Others
+8. Marital Status
+   1. Single
+   2. Married
+   3. Divorced
+   4. Married and Divorced
+   5. Partner
+9. Date and place of birth
+10. Location of Family records
+11. Your Financial Advisors
+    1. Lawyers
+    2. Accountants
+    3. Tax Professionals
+    4. Life Insurance Agents
+    5. Fiduciaries
+12. Medical Advisors
+    1. Personal Physician
+    2. Specialists
+    3. Chiropractors
+    5. Others
+13. Former Residences and dates
+List places you have lived since adulthood, dates, and with whom you lived.
+14. Former Marriages
+    1. Name of Ex's
+    2. DOMs
+    3. POMs
+    4. DODivorces
+    5. PODivorces
+    6. Court documents
+    7. Children of marriages
+**** Your Spouse or Partner
+1. Full Legal Name
+2. Citizenship
+3. Mailing Address
+4. Residence Address
+5. Work Address
+6. Phone Numbers
+*** Familiy Information
+**** Natural and Adopted Children and Legal Dependents
+1. Names
+2. DOBs
+3. DODs
+4. Mailing Addresses
+5. Residence Addresses
+6. Parents
+7. Marital Status
+8. Children
+**** Disabilities and Incapacities with You and Family Members
+*** Property
+**** Titled property
+Obtain most current titled documents for each item listed.
+***** Main residence
+***** Vacation home
+***** Income properties
+***** Co-owned properties
+***** Main car
+***** Secondary cars
+***** Recreational vehicles
+***** Motorcycles
+***** Co-owned vehicles
+**** Significant items of property
+Obtain picture if possible of each item listed.
+***** Jewelry
+***** Art
+***** Heirlooms
+***** Other
+**** Long-term leases
+Obtain most recent document
+**** Judgments you hold
+Obtain most recent document
+**** Accounts receivable
+Obtain most recent documents
+*** Liabilities
+**** Home loans
+Most recent documents
+**** Secondary home loans
+Most recent documents
+**** Car loans
+Most recent documents
+**** Medical liabilities
+Most recent documents
+**** Contract liabilities
+Most recent documents
+**** Credit card liabilities
+Most recent documents
+**** Judgments against you
+Most recent documents
+**** Ongoing litigation
+*** Retirement and Personal Savings Assets
+Most recent documents of each listed account
+**** 401K accounts
+**** Pensions
+**** IRAs
+**** Retirement Investments
+**** Profit Sharing Plans
+**** Stock Options
+**** QDROs from prior divorces
+*** Financial Information
+If your estimated  net worth is greater than $2M,  request the Financial Status
+Questionnaire
+**** Taxes
+***** W2s
+***** 1099s
+***** Tax returns from past years
+If you  do not have  copies, you can  request summaries from  the IRS at  no to
+little cost.
+**** Banks and Credit Unions
+***** Checking Accounts
+***** Savings Accounts
+***** Other
+**** Investments
+***** Stocks
+***** Mutual Funds
+***** Bonds
+**** Businesses
+*** Expected Inheritances
+List any inheritances expected in the future.
+*** Charitable Giving
+Do you wish to make charitable bequests?
+*** Prior Gifts
+List gifts previously made that exceeded $11,000.
+*** Living Trust
+Are you interested in a living trust?  Why?
+*** Information for your Will
+**** Personal Representatives
+**** Trustees for minor children
+**** Guardians for minor children
+*** Information for your Powers of Attorney
+**** POA for Medical Matters
+***** Agents
+***** Powers
+***** Restrictions
+**** POA for Financial Matters
+***** Agents
+***** Powers
+***** Restrictions
+*** Information for your Health Care Directive (Living Will)
+Your  wishes in  the event  of an  incurable illness  or permanent  unconscious
+condition.
+
+- Withdraw life-sustaining procedures?
+  - Withdraw nutrition?
+  - Withdraw hydration?
+  - Withdraw both nutrition and hydration?
+  - Withdraw neither?
+- Do Not Resuscitate (DNR)?
+- Do Not Attempt Resuscitation (DNAR)?
+- If you are female and pregnant?
+  - Life-sustaining procedures?
+  - DNR?
+  - DNAR?
+- Organ donor?
+  - Research and Education also?
+*** Information for Final Arrangements
+**** Funeral arrangements
+**** Memorial arrangments
+**** Cremation arrangements
+**** Burial arrangements
+**** Interment arrangements
+
+*** Your Estate Planning Goals in your Words
+So...  after preparing  all of  the foregoing,  what are  your estate  planning
+goals?  Summarize your estate planning goals in your own words, and include any
+questions you have about any aspect of the estate planning process.
+*** Copies of your Estate Planning Documents
+**** Will
+**** Codicils
+**** Power of Attorney for Financial Management
+**** Power of Attorney for Health Care Management
+**** HIPPA Forms
+**** Health Care Directive (Living Will)
+**** Living Trust
+**** Special Needs Trust
+**** Irrevocable Trust
+*** Copies of your Medical Documents
+**** Annual checkups
+**** Prescriptions
+**** Medications
+**** Special Procedures
+**** Surgeries
+**** Hospitalizations
 * Articles on Specific Subjects
 ** Estate Planning
 *** Robb's Easy Overview
@@ -2308,6 +2586,15 @@ Copyright \copy 2020 by {{{author}}}
 #+texinfo_dir_title:<DIR TITLE>
 #+texinfo_dir_desc:<DIR DESCRIPTION>
 #+texinfo_printed_title:EstatePlanning---LOLH
+
+#+latex_class: article
+#+latex_class_options:[12pt]
+#+latex_header: \usepackage[margin=1.25in]{geometry}
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+latex_compiler: xelatex
+#+date: \today
 
 
 * Footnotes
