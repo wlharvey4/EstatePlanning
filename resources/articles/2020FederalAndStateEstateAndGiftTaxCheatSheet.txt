@@ -1,0 +1,44 @@
+https://www.wealthspire.com/guides-whitepapers/federal-state-estate-gift-tax/
+
+Here we have provided a “cheat sheet” to keep in mind for 2020 federal estate, gift and GST exemptions, as well as exemptions and inheritance tax consequences in specific states where a number of our clients reside.
+Federal Estate, Gift, and GST Tax
+Below is a summary of the current federal estate, gift, and generation-skipping transfer tax provisions for 2020. Note that, under current law, the increases in exemption amounts that began in 2018 are set to expire in 2026, at which point they will revert back to the pre-2018 numbers (i.e., $5,490,000 per person, indexed for inflation).
+Gift and Estate Tax Exemptions
+Single: $11,580,000
+Married: $23,160,000
+Rate: 40%
+Gift Tax Exemption[i]
+Single: $11,580,000 (unified with estate tax exemption)
+Married: $23,160,000
+Rate: 40%
+Annual Exclusion Amount: $15,000
+Exclusions for medical and educational expenses paid directly to provider
+Generation-Skipping Transfer Tax Exemption
+Single: $11,580,000
+Married: $23,160,000
+Rate: 40%
+State Estate and Gift Tax
+States vary in whether and how they tax transfers of property. A gift tax is imposed on property transferred while the donor is still alive. Estate taxes and inheritance taxes are imposed on the transfers of property after the decedent’s death. Below is a summary of estate, gift and inheritance tax laws for residents of the following states:
+STATE	GIFT TAX	ESTATE TAX	INHERITANCE TAX	TOP RATE	EXEMPTION AMOUNT
+New York	No[ii]	Yes	No	16%	$5,850,000[iii]
+Connecticut	Yes	Yes	No	12%	$5,100,000[iv]
+New Jersey	No	No	Yes, if inheritor is someone other than decedent’s spouse, ancestor, descendant, or stepchild.	16%	N/A
+Pennsylvania	No	No	Yes, if inheritor is someone other than decedent’s spouse, or parent (if decedent 21 or younger).	Depends on inheritor’s relationship with decedent[v]	N/A
+Maryland	No	Yes	Yes, inheritor is someone other than decedent’s spouse, descendant, descendant’s spouse, ancestor, stepchild, stepparent or sibling.	Estate tax: 16%
+Inheritance tax: 10%
+$5,000,000
+Washington, D.C.	No	Yes	No	16%	$5,762,400
+California, Florida, Virginia and Wisconsin do not have estate, gift or inheritance tax.
+[i] The federal estate and gift taxes are unified, which means that gifts utilizing exemption during life will deplete the amount of exemption available at death.
+
+[ii] However, gifts made within 3 years of death are pulled back into estate to calculate NYS estate tax.
+
+[iii] But subject to “NYS cliff” for taxable estates exceeding 105% of exemption amount.
+
+[iv] CT gift and estate tax is unified, so that lifetime gifts deplete exemption available at death.  Exemption amount will increase to $7.1M in 2021, $9.1M in 2022, and match the federal exemption in effect in 2023.
+
+[v] 4.5% for descendants, 12% for siblings, 15% for all others.
+
+Wealthspire Advisors is the common brand and trade name used by Sontag Advisory LLC and Wealthspire Advisors, LP, separate registered investment advisers and subsidiary companies of NFP Corp.
+
+This information should not be construed as a recommendation, offer to sell, or solicitation of an offer to buy a particular security or investment strategy. The commentary provided is for informational purposes only and should not be relied upon for accounting, legal, or tax advice. While the information is deemed reliable, Wealthspire Advisors cannot guarantee its accuracy, completeness, or suitability for any purpose, and makes no warranties with regard to the results to be obtained from its use. © 2020 Wealthspire Advisors
